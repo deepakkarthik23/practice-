@@ -7,5 +7,9 @@ file name hello.txt
 
 edit by naveen
 
+<<<<<<< HEAD
 
 first edit
+=======
+Hello world
+>>>>>>> 8aa908bdcd2989d2fe283eb4e43e1a85f2cc3778
